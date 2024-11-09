@@ -15,7 +15,7 @@ This User Management System is designed to manage user accounts within a Windows
 - **GUI Framework:** Windows Forms (WinForms)
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your/repository.git`
+1. Clone the repository: `git clone https://github.com/Zainulabdeenoffical/usermanagementSysetminWindowForm.git`
 2. Open the solution in Visual Studio.
 3. Restore NuGet packages if necessary.
 4. Configure your database connection in `App.config` or `Web.config`.
